@@ -10,6 +10,8 @@ public class Main {
     public static void main(String[] args) {
 
         int[] arr={5,6,7,4,11,8,70,50,60,40,80,55,1};
+        System.out.println("Recursion sort");
+        print(RecursionSort.sort(arr));
         System.out.println("Quick Sort");
         QuickSort.sort(arr);
         print(arr);
