@@ -58,4 +58,39 @@ public class MergeSort {
             k++;
         }
     }
+
+    private void merge1(int[] nums,int l,int m,int r){
+        int i=l;
+        int j=m+1;
+        int[] temp=new int[r-l+1];
+        int k=0;
+        while(i<=m && j<=r){
+            if(nums[i]<nums[j]){
+                temp[k++]=nums[i++];
+            }
+            else{
+                temp[k++]=nums[j++];
+            }
+        }
+        while(i<=m){
+            temp[k++]=nums[i++];
+        }
+        while(j<=r){
+            temp[k++]=nums[j++];
+        }
+        for(i=0;i<temp.length;i++){
+            nums[i+l]=temp[i];
+        }
+    }
+    private void mergeSort1(int[] nums,int l,int r){
+        if(l<r){
+            int m=l+(r-l)/2;
+            mergeSort1(nums,l,m);
+            mergeSort1(nums,m+1,r);
+            merge1(nums,l,m,r);
+        }
+    }
+    public void sortArray(int[] nums) {
+        mergeSort1(nums,0,nums.length-1);
+    }
 }
