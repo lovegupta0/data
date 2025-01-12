@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="Linked list and Double Linked List" />
+    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="Linked list and Double Linked List">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/LIS/MaximumLengthofPairChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/LinkedList/DoubleLinkedList/DoubleLinkedListOp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/LinkedList/DoubleNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/LinkedList/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/LinkedList/SingleLinkedList/SingleLinkedListOp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/PriorityQueue/PriorityQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/BubbleSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/BucketSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryHeap/MinHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinarySearchTree/BinarySearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinarySearchTree/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/Trie/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/Trie/TrieNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/Trie/TrieOp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/LG1000/DSA/Sorting/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/LG1000/DSA/Sorting/MergeSort.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +43,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -31,18 +61,20 @@
     </option>
   </component>
   <component name="ProjectId" id="2gViWbWQYqHbsssPvgeZJl3DtAt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/DSA"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DSA&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
