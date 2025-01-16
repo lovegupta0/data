@@ -4,31 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="Linked list and Double Linked List">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/LIS/MaximumLengthofPairChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/Main.java" afterDir="false" />
+    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="LIS">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/LIS/LongestArithmeticSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/LIS/LongestArithmeticSubsequenceofGivenDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/LIS/RussianDollEnvelopes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/LinkedList/DoubleLinkedList/DoubleLinkedListOp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/LinkedList/DoubleNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/LinkedList/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/LinkedList/SingleLinkedList/SingleLinkedListOp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/PriorityQueue/PriorityQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/BubbleSorting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/BucketSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/InsertionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Sorting/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryHeap/MinHeap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinarySearchTree/BinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinarySearchTree/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/BinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/Trie/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/Trie/TrieNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/Trie/TrieOp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/LG1000/DSA/Sorting/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/LG1000/DSA/Sorting/MergeSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715868706458</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LIS">
+      <created>1736698922867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736698922867</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Linked list and Double Linked List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linked list and Double Linked List" />
+    <MESSAGE value="LIS" />
+    <option name="LAST_COMMIT_MESSAGE" value="LIS" />
   </component>
 </project>
