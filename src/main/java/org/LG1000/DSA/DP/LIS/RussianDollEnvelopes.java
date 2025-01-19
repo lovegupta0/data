@@ -32,4 +32,40 @@ public class RussianDollEnvelopes {
 
         }
     }
+
+    // Approach 2
+    // Binary Search on LIS for optimal solution
+    // T-> O(nlogn)
+    class Approach2{
+        public int maxEnvelopes(int[][] envelopes) {
+            int n=envelopes.length;
+
+            TreeSet<Integer> bst=new TreeSet<>();
+            //sorting ASC for Index 0 & if equal Index 0 Than sorting DESC Index 1
+            Arrays.sort(envelopes,(a,b)->{
+                if(a[0]==b[0]) return b[1]-a[1];
+                return a[0]-b[0];
+            });
+
+            //Once it is sorted collect element for 2nd index i.e. 1
+            List<Integer> lst=new ArrayList<>();
+            for(int i=0;i<n;i++){
+                lst.add(envelopes[i][1]);
+            }
+
+            //Apply Binary Search LIS technique on collected list from above
+            for(int i=0;i<n;i++){
+                if(!bst.contains(lst.get(i))){
+                    Optional<Integer> upperBound=Optional.ofNullable(bst.higher(lst.get(i)));
+                    if(upperBound.isPresent()){
+                        bst.remove(upperBound.get());
+                    }
+                    bst.add(lst.get(i));
+                }
+            }
+
+            return bst.size();
+
+        }
+    }
 }
