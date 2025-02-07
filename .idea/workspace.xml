@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="DP on Fibonacci Style">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnMatrix/DPOnMatrix.seq" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnMatrix/MinimumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnMatrix/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnMatrix/UniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnMatrix/UniquePathsII.java" afterDir="false" />
+    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="Dp on Matrix">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnMatrix/MaximalSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnMatrix/MinimumFallingPathSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnMatrix/DPOnMatrix.seq" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnMatrix/DPOnMatrix.seq" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnMatrix/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnMatrix/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737647434788</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Dp on Matrix">
+      <created>1738858592303</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738858592303</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +126,7 @@
     <MESSAGE value="LIS" />
     <MESSAGE value="LCS" />
     <MESSAGE value="DP on String" />
-    <option name="LAST_COMMIT_MESSAGE" value="DP on String" />
+    <MESSAGE value="Dp on Matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dp on Matrix" />
   </component>
 </project>
