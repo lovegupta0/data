@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="Best Time to Buy and Sell Stock">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStockIII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStockIV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/DPOnBestTimetoBuyAndSellStock.seq" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/DPOnBestTimetoBuyAndSellStock.seq" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739121378029</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Best Time to Buy and Sell Stock">
+      <created>1739123279053</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739123279053</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
