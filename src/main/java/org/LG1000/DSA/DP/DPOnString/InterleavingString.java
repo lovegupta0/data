@@ -6,7 +6,7 @@ import java.util.*;
 public class InterleavingString {
 
     //Approach1
-    //Recurrsion + memonization
+    //Recursion + memoization
     class Approach1{
         public boolean get(String s1,String s2,String s3,int n,int m,int k,int[][][] dp){
             if(n==0 && m==0 && k==0) return true;

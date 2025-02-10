@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="Best Time to Buy and Sell Stock">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/BestTimetoBuyandSellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStockII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/BestTimetoBuyandSellStockII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStockIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/BestTimetoBuyandSellStockIII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStockIV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/BestTimetoBuyandSellStockIV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStockwithCooldown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/BestTimetoBuyandSellStockwithCooldown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStockwithTransactionFee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/BestTimetoBuyandSellStockwithTransactionFee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/DPOnBestTimetoBuyAndSellStock.seq" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/DPOnBestTimetoBuyAndSellStock.seq" afterDir="false" />
+    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="DP on Tree">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnFibonacciStyle/HouseRobberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnTree/HouseRobberIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnTree/UniqueBinarySearchTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnTree/UniqueBinarySearchTreesII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnFibonacciStyle/FibonacciStyle.seq" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnFibonacciStyle/FibonacciStyle.seq" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnString/InterleavingString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnString/InterleavingString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnTree/DPOnTree.seq" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnTree/DPOnTree.seq" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739123677015</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="DP on Tree">
+      <created>1739199334106</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1739199334106</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +188,7 @@
     <MESSAGE value="DP on String" />
     <MESSAGE value="Dp on Matrix" />
     <MESSAGE value="Best Time to Buy and Sell Stock" />
-    <option name="LAST_COMMIT_MESSAGE" value="Best Time to Buy and Sell Stock" />
+    <MESSAGE value="DP on Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="DP on Tree" />
   </component>
 </project>
