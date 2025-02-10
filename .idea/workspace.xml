@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="Best Time to Buy and Sell Stock">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStockIV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/DPOnBestTimetoBuyAndSellStock.seq" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/DPOnBestTimetoBuyAndSellStock.seq" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/BestTimetoBuyandSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStockII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/BestTimetoBuyandSellStockII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStockIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/BestTimetoBuyandSellStockIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStockIV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/BestTimetoBuyandSellStockIV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStockwithCooldown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/BestTimetoBuyandSellStockwithCooldown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/BestTimetoBuyandSellStockwithTransactionFee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/BestTimetoBuyandSellStockwithTransactionFee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnBestTimetoBuyAndSellStock/DPOnBestTimetoBuyAndSellStock.seq" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/DPOnStock/DPOnBestTimetoBuyAndSellStock.seq" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739123279053</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Best Time to Buy and Sell Stock">
+      <created>1739123677015</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739123677015</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

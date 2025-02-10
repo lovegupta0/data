@@ -1,4 +1,4 @@
-package org.LG1000.DSA.DP.DPOnBestTimetoBuyAndSellStock;
+package org.LG1000.DSA.DP.DPOnStock;
 import java.util.*;
 
 //121. Best Time to Buy and Sell Stock

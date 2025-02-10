@@ -1,9 +1,8 @@
-package org.LG1000.DSA.DP.DPOnBestTimetoBuyAndSellStock;
+package org.LG1000.DSA.DP.DPOnStock;
 import java.util.*;
-
-//188. Best Time to Buy and Sell Stock IV
-//https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/
-public class BestTimetoBuyandSellStockIV {
+//123. Best Time to Buy and Sell Stock III
+//https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
+public class BestTimetoBuyandSellStockIII {
     //Approach1
     //Recursion + Memoization
     class Approach1{
@@ -22,41 +21,42 @@ public class BestTimetoBuyandSellStockIV {
             return dp[i][buy][trans]= temp;
 
         }
-        public int maxProfit(int k, int[] prices) {
+
+        public int maxProfit(int[] prices) {
             int n=prices.length;
-            int[][][] dp=new int[n+1][2][k+1];
+            int[][][] dp=new int[n+1][2][3];
             for(int i=0;i<=n;i++){
                 for(int j=0;j<2;j++){
                     Arrays.fill(dp[i][j],-1);
                 }
             }
-            return get(prices,0,0,k,dp);
+            return get(prices,0,0,2,dp);
         }
     }
-
 
     //Approach2
     //Buttom up from above
     class Approach2{
-        public int maxProfit(int k, int[] prices) {
+        public int maxProfit(int[] prices) {
             int n=prices.length;
-            int[][][] dp=new int[n+1][2][k+1];
+            int[][][] dp=new int[n+1][2][3];
             for(int i=n;i>=0;i--){
                 for(int j=0;j<2;j++){
-                    for(int trans=0;trans<=k;trans++){
+                    for(int k=0;k<3;k++){
                         int temp;
-                        if(i==n || trans==0) temp=0;
+                        if(i==n || k==0) temp=0;
                         else if(j==0){
-                            temp=Math.max(prices[i]*-1+dp[i+1][1][trans],dp[i+1][0][trans]);
+                            temp=Math.max(prices[i]*-1+dp[i+1][1][k],dp[i+1][0][k]);
                         }
                         else{
-                            temp=Math.max(prices[i]+dp[i+1][0][trans-1],dp[i+1][j][trans]);
+                            temp=Math.max(prices[i]+dp[i+1][0][k-1],dp[i+1][j][k]);
                         }
-                        dp[i][j][trans]=temp;
+                        dp[i][j][k]=temp;
                     }
                 }
             }
-            return dp[0][0][k];
+            //Return dp[0][0][2] as transaction is 2
+            return dp[0][0][2];
         }
     }
 }
