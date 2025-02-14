@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="DP on Tree">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/MCM/BurstBalloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/MCM/MCM.seq" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/MCM/MinimumCosttoCutaStick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/MCM/PalindromePartitioningII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/MCM/MCM.seq" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/MCM/MCM.seq" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
