@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="DP on Tree">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/MCM/PalindromePartitioningII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/MCM/MCM.seq" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/DP/MCM/MCM.seq" afterDir="false" />
-    </list>
+    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="DP on Matrix Chain Multiplication" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739282878169</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="DP on Matrix Chain Multiplication">
+      <created>1739548135463</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1739548135463</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +193,7 @@
     <MESSAGE value="Dp on Matrix" />
     <MESSAGE value="Best Time to Buy and Sell Stock" />
     <MESSAGE value="DP on Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="DP on Tree" />
+    <MESSAGE value="DP on Matrix Chain Multiplication" />
+    <option name="LAST_COMMIT_MESSAGE" value="DP on Matrix Chain Multiplication" />
   </component>
 </project>
