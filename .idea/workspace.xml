@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="DP">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/LinkedList/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/LinkedList/PartitionList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/LinkedList/RemoveDuplicatesfromSortedListII.java" afterDir="false" />
+    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="Linked List">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/LinkedList/LinkedList.seq" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/LinkedList/LinkedList.seq" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740671325532</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Linked List">
+      <created>1740676108388</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1740676108388</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,8 +238,8 @@
     <MESSAGE value="Best Time to Buy and Sell Stock" />
     <MESSAGE value="DP on Tree" />
     <MESSAGE value="DP on Matrix Chain Multiplication" />
-    <MESSAGE value="Linked List" />
     <MESSAGE value="DP" />
-    <option name="LAST_COMMIT_MESSAGE" value="DP" />
+    <MESSAGE value="Linked List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linked List" />
   </component>
 </project>
