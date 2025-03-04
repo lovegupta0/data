@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="Linked List">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/BalancedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/BinaryTree.seq" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/BinaryTreeMaximumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/BinaryTreeZigzagLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/DiameterofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/MaximumDepthofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/TreeBoundaryTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/TreeNode.java" afterDir="false" />
+    <list default="true" id="4f2aae55-9f1e-4cb5-82c2-313751c42f87" name="Changes" comment="Binary Tree">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/BinaryTreeRightSideView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/BottomViewofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/SymmetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/TopViewofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/VerticalOrderTraversalofaBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/BinaryTree.seq" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/BinaryTree.seq" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/TreeBoundaryTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LG1000/DSA/Tree/BinaryTree/TreeBoundaryTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741011231751</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Binary Tree">
+      <created>1741019484228</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1741019484228</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,6 +261,7 @@
     <MESSAGE value="DP on Matrix Chain Multiplication" />
     <MESSAGE value="DP" />
     <MESSAGE value="Linked List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linked List" />
+    <MESSAGE value="Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Tree" />
   </component>
 </project>
